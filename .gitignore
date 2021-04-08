@@ -2,8 +2,12 @@
 *.txt
 *.tsv
 *.zip
+*.7z
 *.pdf
 *.jpg
 *.jpeg
 *.png
+*.hdf5
+
+
 
