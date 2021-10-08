@@ -9,6 +9,9 @@
 *.png
 *.hdf5
 *.bz2
+*.sql
+10-SQL
+
 
 
 
