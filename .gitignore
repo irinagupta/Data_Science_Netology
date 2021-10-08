@@ -10,6 +10,7 @@
 *.hdf5
 *.bz2
 *.sql
+*.json
 10-SQL
 
 
